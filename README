@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3118
+
+* This script is an implementation of the Japanese SKK (Simple Kana to Kanji
+conversion program).
+
+* Get older versions from vimscript#1589.
+(Thanks to Noriaki Yagi for inventing this script!)
+
+* This plugin works under vim6, vim7.
+
+* Repository
+http://github.com/tyru/skk.vim/
